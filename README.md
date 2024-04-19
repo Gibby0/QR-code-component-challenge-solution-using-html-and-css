@@ -21,8 +21,8 @@ The project involves developing a QR code component that can be integrated into 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Gibby0/QR-code-component-challenge-solution-using-html-and-css
+- Live Site URL: https://gibby0.github.io/QR-code-component-challenge-solution-using-html-and-css/qr-code.html
 ### Built with
 
 - Semantic HTML5 markup
